@@ -16,7 +16,7 @@ Games with Python:  http://codecombat.com/
 
 * Get a Github account
 * Read Chapter -1, 0, 1
-*# http://www.diveintopython3.net/whats-new.html
-*# http://www.diveintopython3.net/installing-python.html
-*# http://www.diveintopython3.net/your-first-python-program.html
+  * http://www.diveintopython3.net/whats-new.html
+  * http://www.diveintopython3.net/installing-python.html
+  * http://www.diveintopython3.net/your-first-python-program.html
 
