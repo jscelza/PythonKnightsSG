@@ -12,8 +12,8 @@ We’ll be using Mark Pilgrim’s Dive Into Python3 for our study material.  We 
 
 Games with Python:  http://codecombat.com/
 
-## Week 1
-### Homework
+### Week 1
+#### Homework
 
 * Get a Github account
 * Read Chapter -1, 0, 1
@@ -21,7 +21,7 @@ Games with Python:  http://codecombat.com/
   * http://www.diveintopython3.net/installing-python.html
   * http://www.diveintopython3.net/your-first-python-program.html
 
-### Notes from Readings
+#### Notes from Readings
 
 * Chapter 1
   * 1.3.1 docstrings
@@ -58,7 +58,7 @@ Games with Python:  http://codecombat.com/
   * [Package Manager](https://pypi.python.org/pypi)
   * [Special Method Names](http://www.diveintopython3.net/special-method-names.html)
 
-### Helpful Function found in reading
+#### Helpful Function found in reading
 
 * type()
   * *Example*: type(x) is int
