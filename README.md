@@ -12,7 +12,7 @@ We’ll be using Mark Pilgrim’s Dive Into Python3 for our study material.  We 
 
 Games with Python:  http://codecombat.com/
 
-### Week 1
+## Week 1
 #### Homework
 
 * Get a Github account
