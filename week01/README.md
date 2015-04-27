@@ -16,7 +16,7 @@
     * One-liners are for really obvious cases. They should really fit on one line
     * Multi-line docstrings consist of a summary line just like a one-line docstring, followed by a blank line, followed by a more elaborate description
   * 1.4.1 Search path
-    * see [checkSysPath script](./week01/checkSysPath.py)
+    * see [funWithSys script](./funWithSys.py)
   * 1.5 Objects
     * Everything in Python is an object, and everything can have attributes and methods
     * In Python, the definition is looser. Some objects have neither attributes nor methods, but they could. Not all objects are subclassable. But everything is an object in the sense that it can be assigned to a variable or passed as an argument to a function.
