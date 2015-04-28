@@ -44,6 +44,17 @@
   * [Package Manager](https://pypi.python.org/pypi)
   * [Special Method Names](http://www.diveintopython3.net/special-method-names.html)
 
+## Learn Python the Hardway
+
+* [Exercise 1](http://learnpythonthehardway.org/book/ex1.html)
+* [Exercise 2](http://learnpythonthehardway.org/book/ex2.html)
+* [Exercise 3](http://learnpythonthehardway.org/book/ex3.html)
+* [Exercise 4](http://learnpythonthehardway.org/book/ex4.html)
+* [Exercise 5](http://learnpythonthehardway.org/book/ex5.html)
+* [Exercise 6](http://learnpythonthehardway.org/book/ex6.html)
+* [Exercise 7](http://learnpythonthehardway.org/book/ex7.html)
+* [Exercise 8](http://learnpythonthehardway.org/book/ex8.html)
+
 ## Helpful Function found in reading
 
 * type()
