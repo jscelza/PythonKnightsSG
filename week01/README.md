@@ -54,6 +54,8 @@
 * [Exercise 6](http://learnpythonthehardway.org/book/ex6.html)
 * [Exercise 7](http://learnpythonthehardway.org/book/ex7.html)
 * [Exercise 8](http://learnpythonthehardway.org/book/ex8.html)
+* [Exercise 9](http://learnpythonthehardway.org/book/ex8.html)
+* [Exercise 10](http://learnpythonthehardway.org/book/ex8.html)
 
 ## Helpful Function found in reading
 
