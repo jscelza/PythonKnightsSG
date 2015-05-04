@@ -44,18 +44,33 @@
   * [Package Manager](https://pypi.python.org/pypi)
   * [Special Method Names](http://www.diveintopython3.net/special-method-names.html)
 
+## Output from script [funWithSys script](./funWithSys.py)
+
+```
+Python 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import funWithSys
+>>> funWithSys.display_syspath()
+sys.path has the following value:
+['', '/Library/Frameworks/Python.framework/Versions/3.4/lib/python34.zip', '/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4', '/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/plat-darwin', '/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/lib-dynload', '/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages']
+
+>>>
+```
 ## Learn Python the Hardway
 
-* [Exercise 1](http://learnpythonthehardway.org/book/ex1.html)
-* [Exercise 2](http://learnpythonthehardway.org/book/ex2.html)
-* [Exercise 3](http://learnpythonthehardway.org/book/ex3.html)
-* [Exercise 4](http://learnpythonthehardway.org/book/ex4.html)
-* [Exercise 5](http://learnpythonthehardway.org/book/ex5.html)
-* [Exercise 6](http://learnpythonthehardway.org/book/ex6.html)
-* [Exercise 7](http://learnpythonthehardway.org/book/ex7.html)
-* [Exercise 8](http://learnpythonthehardway.org/book/ex8.html)
-* [Exercise 9](http://learnpythonthehardway.org/book/ex8.html)
-* [Exercise 10](http://learnpythonthehardway.org/book/ex8.html)
+* Readings
+  * [Exercise 1](http://learnpythonthehardway.org/book/ex1.html)
+  * [Exercise 2](http://learnpythonthehardway.org/book/ex2.html)
+  * [Exercise 3](http://learnpythonthehardway.org/book/ex3.html)
+  * [Exercise 4](http://learnpythonthehardway.org/book/ex4.html)
+  * [Exercise 5](http://learnpythonthehardway.org/book/ex5.html)
+  * [Exercise 6](http://learnpythonthehardway.org/book/ex6.html)
+  * [Exercise 7](http://learnpythonthehardway.org/book/ex7.html)
+  * [Exercise 8](http://learnpythonthehardway.org/book/ex8.html)
+  * [Exercise 9](http://learnpythonthehardway.org/book/ex9.html)
+  * [Exercise 10](http://learnpythonthehardway.org/book/ex10.html)
+* Location for this weeks exercise
 
 ## Helpful Function found in reading
 

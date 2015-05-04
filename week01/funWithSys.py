@@ -14,7 +14,7 @@ addDirToSyspath(string)
 import sys
 
 
-def diplay_syspath():
+def display_syspath():
     """Print sys.path value."""
     print("sys.path has the following value:")
     print(sys.path)
@@ -27,15 +27,14 @@ def add_dir_to_Syspath(pythonKnightPath='./'):
     print()
     sys.path.insert(0, pythonKnightPath)
 
-
 if __name__ == '__main__':
     print('Default Value')
-    diplay_syspath()
+    display_syspath()
 
     add_dir_to_Syspath("~/repos/PythonKnightsSG")
     print('Value after inserting of directory')
-    diplay_syspath()
+    display_syspath()
 
     add_dir_to_Syspath()
     print('Value after inserting of directory')
-    diplay_syspath()
+    display_syspath()

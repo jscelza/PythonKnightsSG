@@ -11,7 +11,10 @@ We’ll be using Mark Pilgrim’s Dive Into Python3 for our study material.  We 
 * https://docs.python.org/2/tutorial/index.html
 * https://docs.python.org/3.5/tutorial/index.html
 
-Games with Python:  http://codecombat.com/
+[Games with Python](http://codecombat.com)
+[Cheatsheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+[Common Errors](http://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/)
+[CMD line options & Environment variables](https://docs.python.org/3/using/cmdline.html)
 
 ## Development Environment
 
