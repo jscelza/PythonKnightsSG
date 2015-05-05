@@ -2,7 +2,7 @@
 
 http://www.diveintopython3.net/your-first-python-program.html
 
-Available Functions"
+Available Functions
 printSyspath()
   Print value of sys.path
 
