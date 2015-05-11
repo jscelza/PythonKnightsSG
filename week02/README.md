@@ -29,6 +29,7 @@
 * 2.4.3 Adding items to A Lists
   * *a_list = a_list + ['itemA', 'itemB']*  --> Create new list of the current `a_list` including items between `[]`
   * *a_list.append('item')* --> Append a single `'item'` to the end of the list
+  * *a_list.extend(['itemA', 'ItemB'])* -->
   * *a_list.insert(pos, 'item')* --> insert  `'item'` in position `pos`
 * 2.4.4 Searching for values in a list
   * *a_list.count('item')* --> Count number of `item` in `a_list`
@@ -38,16 +39,29 @@
   * *del a_list[pos]*  --> Remove an item from a specific `pos` in `a_list`
   * *a_list.remove('my item')* --> Removes the item that match the value of `'my item'`
   * *a_list() or a_list(pos)* --> Removes the last item in the list or if a `pos` is passed then item in that position
-* 2.4.7 Tuples
+* 2.5 Tuples
   * Immutable lists (no add or remove)
   * Faster then lists.
   * Best for constant set of values that you iterate trough
-  * Some Tuples can be use as dictionary keys (like final static in java?)
-
-
+  * Some Tuples can be use as dictionary keys
+* 2.6 Sets
+  * Single set can contain values of any immutable datatypes
+  * Once you have two sets, you can do standard set operation like union, intersaction, and set difference
+  * to create them just
+    * use curly braces after `varable =`
+    * out of list by using `a_set = set(alist)`
+    * or use `set()` if you have no values
+  * To add values use `.add(value)` or `.update({set})`
+  * to remove items use `discard(value)` or `remove(value)`
+* 2.7 Dictionaries
+  * Not much in the documentation so wrong a [script](./playingCards.py)
 
 ## Further Readings
 
+* https://docs.python.org/3.1/library/math.html
+* https://docs.python.org/3.1/library/fractions.html
+* http://www.python-course.eu/python3_loops.php
+*
 
 ## Learn Python the Hardway
 
@@ -56,3 +70,6 @@
 
 ## Helpful Function found in reading
 
+* getattr(class, str_func)
+  * used to fetch an attributre from an object, using a string object instead of an identifier
+  * http://effbot.org/zone/python-getattr.html
