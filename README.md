@@ -10,6 +10,7 @@ We’ll be using Mark Pilgrim’s Dive Into Python3 for our study material.  We 
 * http://learnpythonthehardway.org/book/
 * https://docs.python.org/2/tutorial/index.html
 * https://docs.python.org/3.5/tutorial/index.html
+* http://www.greenteapress.com/thinkpython  -- http://www.greenteapress.com/thinkpython/html/index.html
 
 [Games with Python](http://codecombat.com)
 [Cheatsheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
